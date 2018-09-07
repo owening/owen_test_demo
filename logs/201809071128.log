@@ -1,0 +1,32 @@
+2018-09-07 11:28:57,654 - BrowserEngine - INFO - 您已经选择了 Chrome 浏览器.
+2018-09-07 11:28:57,654 - BrowserEngine - INFO - 测试url是: https://www.baidu.com
+2018-09-07 11:29:03,236 - BrowserEngine - INFO - 驱动Chrome浏览器.
+2018-09-07 11:29:03,983 - BrowserEngine - INFO - 打开站点: https://www.baidu.com
+2018-09-07 11:29:05,173 - BrowserEngine - INFO - 浏览器窗口最大化
+2018-09-07 11:29:05,220 - BrowserEngine - INFO - 隐式等待8秒
+2018-09-07 11:29:05,276 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2018-09-07 11:29:05,553 - BasePage - INFO - 在已有输入框中输入 ' selenium '
+2018-09-07 11:29:05,615 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2018-09-07 11:29:05,734 - BasePage - INFO - 点击 '  ' 元素成功.
+2018-09-07 11:29:08,128 - BasePage - INFO - 截图并保存到文件夹：/screenshots下
+2018-09-07 11:29:08,140 - BasePage - INFO - 当前页面的标题是 selenium_百度搜索
+2018-09-07 11:29:08,171 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2018-09-07 11:29:08,377 - BasePage - INFO - 在已有输入框中输入 ' python '
+2018-09-07 11:29:08,414 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2018-09-07 11:29:08,502 - BasePage - INFO - 点击 '  ' 元素成功.
+2018-09-07 11:29:10,897 - BasePage - INFO - 截图并保存到文件夹：/screenshots下
+2018-09-07 11:29:10,901 - BasePage - INFO - 当前页面的标题是 python_百度搜索
+2018-09-07 11:29:14,072 - BrowserEngine - INFO - 您已经选择了 Chrome 浏览器.
+2018-09-07 11:29:14,072 - BrowserEngine - INFO - 测试url是: https://www.baidu.com
+2018-09-07 11:29:18,996 - BrowserEngine - INFO - 驱动Chrome浏览器.
+2018-09-07 11:29:19,614 - BrowserEngine - INFO - 打开站点: https://www.baidu.com
+2018-09-07 11:29:20,917 - BrowserEngine - INFO - 浏览器窗口最大化
+2018-09-07 11:29:20,938 - BrowserEngine - INFO - 隐式等待8秒
+2018-09-07 11:29:20,967 - BasePage - INFO - 当前页面的标题是 百度一下，你就知道
+2018-09-07 11:29:20,979 - BasePage - INFO - 当前页面的标题是 百度一下，你就知道
+2018-09-07 11:29:24,016 - BrowserEngine - INFO - 您已经选择了 Chrome 浏览器.
+2018-09-07 11:29:24,016 - BrowserEngine - INFO - 测试url是: https://www.baidu.com
+2018-09-07 11:29:29,275 - BrowserEngine - INFO - 驱动Chrome浏览器.
+2018-09-07 11:29:30,026 - BrowserEngine - INFO - 打开站点: https://www.baidu.com
+2018-09-07 11:29:31,328 - BrowserEngine - INFO - 浏览器窗口最大化
+2018-09-07 11:29:31,328 - BrowserEngine - INFO - 隐式等待8秒
